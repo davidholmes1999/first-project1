@@ -1,8 +1,8 @@
 # first-project1
 A new project
-Number Generator
+Project description
 
-# project description
+# Number Generator
 
 --------------------------------------------------------------------------------------------------------------------------
 ```The project I uploaded is a number generator.

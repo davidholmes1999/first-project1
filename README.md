@@ -3,7 +3,9 @@ A new project
 Number Generator
 
 # project description
+
 --------------------------------------------------------------------------------------------------------------------------
+
 ```The project I uploaded is a number generator.
 
 You have to guess a certain number between 1 and 100 in the least amount of tries.  
